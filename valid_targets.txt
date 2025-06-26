@@ -4,8 +4,9 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-var converter = require("./lib/gettextWrapper")
-  , colors = require("colors");
-
-// expose to the world
-module.exports = converter;
+./index.js
+./lib/plurals.js
+./lib/flatten.js
+./lib/gettextWrapper.js
+./valid_targets.txt
+./program.js
